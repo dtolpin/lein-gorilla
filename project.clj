@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (defproject dtolpin/lein-gorilla "0.3.7-SNAPSHOT"
   :description "A Leiningen plugin for the Gorilla REPL."
   :url "https://github.com/JonyEpsilon/lein-gorilla"
